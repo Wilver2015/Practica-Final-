@@ -1,2 +1,2 @@
 # Practica-Final-
-Ray Goris Practica Fianal
+Ray Goris Practica Final
